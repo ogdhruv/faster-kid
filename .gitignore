@@ -1,0 +1,10 @@
+# virual_env
+.venv/
+
+# Python
+__pycache__/
+
+
+# Project
+history.dat
+
