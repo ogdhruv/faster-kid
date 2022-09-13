@@ -30,7 +30,7 @@ poetry run fasterkid
 ---
 ### Visuals
 
-![starting screen](img/img_start.png)
+![starting screen](fasterkid/img/img_start.png)
 
-![game screen](img/img_board.png)
+![game screen](fasterkid/img/img_board.png)
 
