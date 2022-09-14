@@ -1,15 +1,24 @@
 
 # FASTER-KID [CLI]
 
-A cli based typing speed test program that uses python and its built-in libraries to perform operations. It also has a user-wise data recording and the power to check previous typing history and best times. It also has a leaderboard to view the player with best record
+A cli based typing speed test program that uses python and its built-in libraries to perform operations. It also has a user-wise data recording and the power to check previous typing history and best times. It also has a leaderboard to view the player with best record.
 
 ---
-## How to use:
+### Prerequisite : 
+- **python3**
+- **poetry**
+- **rich** -> poetry add rich 
+
+---
+### How to use :
 - Clone the repo :
 ```
-git clone https://github.com/ogdhruv/Faster-Kid.git
+git clone https://github.com/ogdhruv/faster-kid.git
 ```
-
+- Move into faster-kid directory :
+```
+cd faster-kid
+```
 - In the bash or command prompt use the following command :
 ```
 poetry run fasterkid
@@ -28,9 +37,8 @@ poetry run fasterkid
 - Leaderboard
 - Ability to view data in the form of a clean table
 ---
-### Visuals
+### Demo 🎥
 
-![starting screen](fasterkid/img/img_start.png)
+[![asciicast](https://asciinema.org/a/biMcHYJnZfzcumFyijjS4CHtL.svg)](https://asciinema.org/a/biMcHYJnZfzcumFyijjS4CHtL)
 
-![game screen](fasterkid/img/img_board.png)
 
