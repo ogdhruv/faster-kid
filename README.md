@@ -39,6 +39,6 @@ poetry run fasterkid
 ---
 ### Demo 🎥
 
-[![asciicast](https://asciinema.org/a/biMcHYJnZfzcumFyijjS4CHtL.svg)](https://asciinema.org/a/biMcHYJnZfzcumFyijjS4CHtL)
+[![asciicast](https://asciinema.org/a/biMcHYJnZfzcumFyijjS4CHtL.svg)](https://asciinema.org/a/biMcHYJnZfzcumFyijjS4CHtL?t=5)
 
 
