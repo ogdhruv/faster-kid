@@ -1,6 +1,5 @@
 from time import sleep
 
-
 def timer(seconds):
     """starts a timer for n seconds"""
 
