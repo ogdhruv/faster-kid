@@ -7,7 +7,7 @@ A cli based typing speed test program that uses python and its built-in librarie
 ### Prerequisite : 
 - **python3**
 - **poetry**
-- **rich** -> poetry add rich 
+- **rich**
 
 ---
 ### How to use :
@@ -24,8 +24,7 @@ cd faster-kid
 poetry run fasterkid
 ```
 - After running program in terminal<br>
-
-  > enter username : **yourname**
+  enter username : **yourname**
 ---
 
 ## Features
