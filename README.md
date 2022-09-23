@@ -2,7 +2,10 @@
 # FASTER-KID [CLI]
 
 A cli based typing speed test program that uses python and its built-in libraries to perform operations. It also has a user-wise data recording and the power to check previous typing history and best times. It also has a leaderboard to view the player with best record.
+---
+### Demo 🎥
 
+[![asciicast](https://asciinema.org/a/biMcHYJnZfzcumFyijjS4CHtL.svg)](https://asciinema.org/a/biMcHYJnZfzcumFyijjS4CHtL?t=5)
 ---
 ### Prerequisite : 
 - **python3**
@@ -36,8 +39,6 @@ poetry run fasterkid
 - Leaderboard
 - Ability to view data in the form of a clean table
 ---
-### Demo 🎥
 
-[![asciicast](https://asciinema.org/a/biMcHYJnZfzcumFyijjS4CHtL.svg)](https://asciinema.org/a/biMcHYJnZfzcumFyijjS4CHtL?t=5)
 
 
